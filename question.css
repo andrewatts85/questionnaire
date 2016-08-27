@@ -1,0 +1,48 @@
+body {
+  background-color: #DFEBED;
+}
+
+form {
+  border: 0.063em solid #2B7503;
+  width: 35%;
+  margin: 5% auto;
+  border-radius: .9em .9em 0 0;
+  padding-top: ;
+  padding-bottom: 1em;
+  font-family: sans-serif;
+  background: #FFF;
+  /* box shadow effect */
+  box-shadow: 0 0.75em 1em 0 rgba(0, 0, 0, 0.24), 0 1.063em 3.125em 0 rgba(0, 0, 0, 0.19);
+}
+
+form h3 {
+  background-color: #2B7503;
+  color: #FFF;
+  height: 3em;
+  line-height: 3em;
+  padding-left: 1em;
+  margin-top: 0;
+  border-radius: .7em .7em 0 0;
+}
+
+form p {
+  font-weight: bold;
+}
+
+form p, label {
+  padding: 0 1em 0em 1em;
+}
+
+form button {
+  margin-right: 1em;
+  float: right;
+  display: inline-block;
+  height: 2em;
+  width: 6em;
+  background-color: #7B05BB;
+  line-height: 2em;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.2em;
+  border: none;
+}
